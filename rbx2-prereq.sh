@@ -1,4 +1,4 @@
-#!/binsh
+#!/usr/bin/env bash
 
 # Install the prerequisites for the ROS By Example code, Volume 2
 
