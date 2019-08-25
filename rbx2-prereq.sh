@@ -2,7 +2,7 @@
 
 # Install the prerequisites for the ROS By Example code, Volume 2
 
-sudo apt-get install -y ros-kinetic-arbotix ros-kinetic-openni-camera \
+apt-get update && apt-get install -y ros-kinetic-arbotix ros-kinetic-openni-camera \
 ros-kinetic-dynamixel-motor ros-kinetic-rosbridge-suite \
 ros-kinetic-web-video-server ros-kinetic-rgbd-launch \
 ros-kinetic-moveit ros-kinetic-manipulation-msgs \
